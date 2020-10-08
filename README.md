@@ -18,7 +18,7 @@ you automatically get npm installed on your computer. [Download Node.js](https:/
 To download the project follow the instructions bellow
 ```
 git clone https://github.com/KonradSzywalski/ReactToDoList.git
-npm start
+cd ReactToDoList
 ```
 
 Install dependencies and run with:
