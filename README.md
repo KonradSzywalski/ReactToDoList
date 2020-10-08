@@ -11,9 +11,9 @@ purposes.
 ### Prerequisites
 
 The project can be built with npm that is distributed with Node.js which means that when you download Node.js, 
-you automatically get npm installed on your computer. [Download Node.js](https://nodejs.org/en/download/)
+you automatically get npm installed on your computer. [Download Node.js](https://nodejs.org/en/download/).
 
-### Download, Install dependencies and run project
+### Download, install dependencies and run project
 
 To download the project follow the instructions bellow
 ```
