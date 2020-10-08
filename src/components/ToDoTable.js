@@ -38,6 +38,7 @@ class ToDoTable extends React.Component{
         this.setState({data: [...this.state.data, newVal]})
         this.sortByTaskNameMarker = <FontAwesomeIcon icon={faSort}/>;
         this.sortByPriorityMarker = <FontAwesomeIcon icon={faSort}/>;
+        this.sortByDoneMarker = <FontAwesomeIcon icon={faSort}/>;
 
         let newRowValue = this.state.rowValue;
 
