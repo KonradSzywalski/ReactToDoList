@@ -1,7 +1,8 @@
 # ReactToDoList
 
-This project is an implementation of a simple user interface that includes a todo list displayed in a tabular form. The application allows you to add, delete, sort and check items. The project also has an implemented pagination function. The application works with use of the local storage.
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+This project is an implementation of a simple user interface that includes a todo list displayed in a tabular form. The application allows you to add, delete, sort and check items. The project also has an implemented pagination function. The application works with use of the local storage. This project was created with [Create React App](https://github.com/facebook/create-react-app).
+
+Live Version: https://react-to-do-list.konrad-szywalski.pl/
 
 ## Getting Started
 
